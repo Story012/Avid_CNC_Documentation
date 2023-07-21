@@ -22,5 +22,5 @@ Contents
       usage
       api
       design/index
-      cam_index
+      cam/index
       machine/index
