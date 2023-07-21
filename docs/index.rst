@@ -17,6 +17,10 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+      :titlesonly:
+      
+      usage
+      api
+      design/index
+      cam_index
+      machine/index
